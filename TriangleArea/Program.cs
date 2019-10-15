@@ -10,6 +10,15 @@ namespace TriangleArea
     {
         static void Main(string[] args)
         {
+            double bottom = double.Parse(Console.ReadLine());
+            double height = double.Parse(Console.ReadLine());
+            double area = GetTriangleArea(bottom, height);
+            Console.WriteLine(area);
+        }
+
+        static double GetTriangleArea(double bottom, double height)
+        {
+            return bottom * height / 2;
         }
     }
 }
