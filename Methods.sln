@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringRepeater", "tringRepe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindNthDigit", "FindNthDigit\FindNthDigit.csproj", "{94F73267-AA2B-4AAF-A07E-D52C55F9FCDD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegerToBase", "IntegerToBase\IntegerToBase.csproj", "{7935A688-765E-4E8D-A90C-2228EA01E76F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notifications", "Notifications\Notifications.csproj", "{10A381CB-ECA3-4085-BA93-9EF0A1CE57A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{94F73267-AA2B-4AAF-A07E-D52C55F9FCDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94F73267-AA2B-4AAF-A07E-D52C55F9FCDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94F73267-AA2B-4AAF-A07E-D52C55F9FCDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7935A688-765E-4E8D-A90C-2228EA01E76F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7935A688-765E-4E8D-A90C-2228EA01E76F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7935A688-765E-4E8D-A90C-2228EA01E76F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7935A688-765E-4E8D-A90C-2228EA01E76F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10A381CB-ECA3-4085-BA93-9EF0A1CE57A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10A381CB-ECA3-4085-BA93-9EF0A1CE57A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10A381CB-ECA3-4085-BA93-9EF0A1CE57A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10A381CB-ECA3-4085-BA93-9EF0A1CE57A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

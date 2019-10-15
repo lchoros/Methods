@@ -9,8 +9,6 @@ namespace FindNthDigit
             long number = long.Parse(Console.ReadLine());
             int index = int.Parse(Console.ReadLine());
             Console.WriteLine(FindNthDigit(number, index));
-
-
         }
 
 
